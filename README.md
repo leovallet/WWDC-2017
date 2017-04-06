@@ -1,2 +1,5 @@
 # WWDC-2017
-My WWDC 2017 scholarship submission
+
+This is my WWDC 2017 scholarship submission
+
+![ScreenShot](playground.jpeg)
